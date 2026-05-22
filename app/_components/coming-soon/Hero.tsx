@@ -19,15 +19,15 @@ export default function Hero() {
 
       {/* Overlays */}
 
-      <div className="absolute inset-0 bg-black/55" />
+      {/* <div className="absolute inset-0 bg-black/55" /> */}
+
+      <div className="absolute inset-0 bg-linear-to-b from-black/20 via-black/40 to-black/80" />
+
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.08),transparent_60%)]" />
 
       <PollenLayer />
 
       <BeeLayer />
-
-      {/* <div className="absolute inset-0 bg-linear-to-b from-black/20 via-black/40 to-black/80" /> */}
-
-      {/* <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.08),transparent_60%)]" /> */}
 
       {/* Content */}
 
