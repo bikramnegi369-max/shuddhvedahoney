@@ -144,7 +144,7 @@ export default function BeeLayer() {
             y: bee.animate.y,
             rotate: bee.animate.rotate,
 
-            // ✅ SAFE PARALLAX (NO breaking motion)
+            // PARALLAX (NO breaking motion)
             scale: 0.6 + bee.depth * 0.6,
           }}
           transition={{
