@@ -169,7 +169,7 @@ export default function BeeLayer() {
                 transition={{ duration: 0.16, repeat: Infinity }}
               >
                 <Image
-                  src="/bee.gif"
+                  src="/bee.webp"
                   alt=""
                   width={bee.size}
                   height={bee.size}
