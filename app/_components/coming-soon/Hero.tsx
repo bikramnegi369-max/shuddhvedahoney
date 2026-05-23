@@ -13,7 +13,7 @@ export default function Hero() {
         alt=""
         fill
         priority
-        quality={90}
+        unoptimized
         className="object-cover"
       />
 
