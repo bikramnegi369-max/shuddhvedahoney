@@ -27,11 +27,10 @@ export default function Logo() {
       "
       >
         <Image
-          src="/logo.svg"
+          src="/logo.webp"
           alt="Logo"
           fill
-          priority
-          quality={90}
+          unoptimized
           className="object-contain"
         />
       </div>
