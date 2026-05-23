@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ShuddhVedaHoney | Coming Soon",
-  description: "Our new website is launching soon. Join the waitlist.",
+  title: "ShuddhVeda Honey | Nature's Sweetness is Coming Soon",
+  description:
+    "Premium organic honey that is pure, natural, responsibly sourced, and crafted with care.",
 };
 
 export default function RootLayout({
