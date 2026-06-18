@@ -26,6 +26,15 @@ const highlights = [
 export default function Hero() {
   return (
     <main className="relative h-dvh overflow-hidden bg-[#2d1b08]">
+      <p className="hidden">
+        organic honey, pure organic honey, natural organic honey, 100% organic
+        honey, raw organic honey, certified organic honey, organic forest honey,
+        organic wild honey, organic bee honey, premium organic honey, buy
+        organic honey online, best organic honey in India, organic honey price,
+        organic honey near me, organic honey brand, premium honey online, pure
+        honey online, natural honey online, organic honey jar, organic honey
+        supplier
+      </p>
       <Image
         src="/hero-bg.webp"
         alt=""

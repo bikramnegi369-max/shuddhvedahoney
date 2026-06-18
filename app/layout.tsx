@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Fragment } from "react";
 
 export const metadata: Metadata = {
   title: "ShuddhVeda Honey | Nature's Sweetness is Coming Soon",
